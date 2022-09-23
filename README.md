@@ -1,16 +1,22 @@
-# fp-sisop-ITA10-2022
+# :zap: **Jarkom-Modul-1-ITB01-2022** :zap:
 
-
-
-# :zap: **soal-shift-sisop-modul-4-ITA10-2022** :zap:
-
-| Nama                      | NRP        |
-|---------------------------|------------|
-| Muhammad Firdho Kustiawan | 5027201005 |
-| Sharira Saniane           | 5027201016 |
-| Jovan Surya Bako          | 5027201013 | 
+| Nama                      | NRP            |
+|---------------------------|----------------|
+| Rafael Nixon              | 05311940000025 |
+| Fairuz Azka Maulana       | 5027201017     |
+| Muhammad Firdho Kustiawan | 5027201005     | 
 <br/>
 
 
 ## :large_blue_circle: **Soal 1** :large_blue_circle: 
-![nyerah](img/nyerah.jpg)
+Soal
+
+## :large_blue_circle: **Soal 2** :large_blue_circle: 
+## :large_blue_circle: **Soal 3** :large_blue_circle: 
+## :large_blue_circle: **Soal 4** :large_blue_circle: 
+## :large_blue_circle: **Soal 5** :large_blue_circle: 
+## :large_blue_circle: **Soal 6** :large_blue_circle: 
+## :large_blue_circle: **Soal 7** :large_blue_circle: 
+## :large_blue_circle: **Soal 8** :large_blue_circle: 
+## :large_blue_circle: **Soal 9** :large_blue_circle: 
+## :large_blue_circle: **Soal 10** :large_blue_circle: 
