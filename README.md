@@ -70,6 +70,14 @@ Kami memfilter paketnya dengan dua cara:
    <img src="./img/Nomor6b.png">
 
 ## :large_blue_circle: **Soal 7** :large_blue_circle: 
+Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+
+**Jawaban:**
+<br>
+1. Pertama-tama kami melakukan ```ipconfig``` di cmd untuk mengetahui alamat IP 
+2. Kemudian kami memfilter paket yang masuk secara online dengan filter ```ip.src_host eq 192.168.1.123```
+   <img src="./img/No. 7.png">
+
 ## :large_blue_circle: **Soal 8** :large_blue_circle: 
 Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum. Percakapan tersebut dilaporkan menggunakan protokol jaringan dengan tingkat keandalan yang tinggi dalam pertukaran datanya sehingga kalian perlu menerapkan filter dengan protokol yang tersebut.
 
@@ -101,5 +109,5 @@ Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di a
    pada direktori yang sudah ada file salted tersebut 
    <img src="./img/No. 10.png">
    
-## :large_blue_circle: **Kendala** :large_blue_circle:
+## :red_circle: **Kendala** :red_circle:
 1. Kami melakukan revisi pada soal no 10 kami kesulitan untuk melakukan decrypt pada file salted dikarenakan kami lupa untuk menyertakan -d pada command yang menyebabkan file tidak terdecrypt, mengakibatkan memberikan jawaban yang kurang akurat pada laporan.
