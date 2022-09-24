@@ -51,6 +51,13 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari port 21!
    <img src="./img/No. 4.png">
 
 ## :large_blue_circle: **Soal 5** :large_blue_circle: 
+Filter sehingga wireshark hanya mengambil paket yang berasal dari port 443!
+
+**Jawaban:**
+<br>
+1. Untuk mencari paket yang berasal di port 443 menggunakan filter source port 443 pada protocol tcp dengan ```tcp.srcport == 443```
+   <img src="./img/No. 5.png">
+
 ## :large_blue_circle: **Soal 6** :large_blue_circle: 
 Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
 
