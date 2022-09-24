@@ -71,6 +71,18 @@ Kami memfilter paketnya dengan dua cara:
 
 ## :large_blue_circle: **Soal 7** :large_blue_circle: 
 ## :large_blue_circle: **Soal 8** :large_blue_circle: 
+Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum. Percakapan tersebut dilaporkan menggunakan protokol jaringan dengan tingkat keandalan yang tinggi dalam pertukaran datanya sehingga kalian perlu menerapkan filter dengan protokol yang tersebut.
+
+**Jawaban:**
+<br>
+1. Pertama-tama kami memfilter paket yang ada dengan filter ```frame contains "pass"```.
+   <img src="./img/No. 8a.png">
+2. Kemudian klick kanan ```follow``` menuju ```TCP stream```.
+   <img src="./img/No. 8a.png">
+3. Kemudian mendapatkan informasi percakapan antara dua mahasiswa tersebut.
+   <img src="./img/No. 8b.png">
+   <img src="./img/No. 8c.png">
+   <img src="./img/No. 8d.png">
 
 ## :large_blue_circle: **Soal 9** :large_blue_circle: 
 Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dalam percakapan yang diperoleh, carilah file yang dimaksud! Untuk memudahkan laporan kepada atasan, beri nama file yang ditemukan dengan format [nama_kelompok].des3 dan simpan output file dengan nama “flag.txt”.
